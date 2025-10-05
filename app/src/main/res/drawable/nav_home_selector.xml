@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Show this image when the item is selected (checked) -->
+    <item android:drawable="@drawable/homelogo" android:state_checked="true" />
+    <!-- Show this image for the default (unselected) state -->
+    <item android:drawable="@drawable/homelogo" />
+</selector>
